@@ -1,0 +1,69 @@
+JavaScript
+                             ========
+- JavaScript is light weight JIT [Just-in-Time] compiled and interpreted language.
+- Interpreted is the process of translating line-by-line
+- Compiled is the process of translating entire program.
+        a) JIT
+        b) AOT
+- JIT [Just-in-Time] compiled in browser.
+- AOT [Ahead-of-Time] compile at application level]
+- JavaScript is a language used to build large scale applications both client side and server side.
+- JavaScript is used
+        Client Side                HTML
+        Server Side                Node.js
+        Database                        MongoDB
+        Animations [2D / 3D]                Flash, 3DS Max etc..
+
+FAQ: What is the role of JavaScript in Front End development?
+Ans:  JavaScript is used client side to reduce burden on server.
+         It can reduce burden on server by handling interactions and
+         validations client side.
+
+
+Evolution of JavaScript
+==================
+- The First Browser "Mosaic"
+- The first Markup Languages
+        GML
+        SGML
+        Scripting Language        :  ECMA Script
+
+- 1990 Tim Berner Lee  introduced  - HTML
+        HTML
+        Scripting - ECMA
+
+- 1994  Netscape Communications - Browser
+
+             Netscape Communicator
+        HTML
+        ECMA
+
+- 1995  Netscape communications appointed a scripting expert to design a script for Netscape Browser
+        "Brendan Eich"  - MDN  - 10 days
+         Mocha
+         Live Script
+
+- 1996  Netscape given the responsibility of
+        Live Script  to a company called
+        "Sun-MicroSystems" - Java
+
+        JavaScript
+
+  Designed By - Brendan Eich
+  Designed For - Netscape
+  Maintained By - Sun Micro System
+
+- 1998  Microsoft Developed an OS called Win-98 -  for Internet
+         Free Browser :  Internet Explorer
+        Opera, Safari,
+
+- 2000  Netscape stopped its services
+        Stopped JS -> ECMA
+        IE        JS => Own Extentions to JS
+        Safari        JS
+        Browser Compatibility
+       
+        ES8
+
+Issues with JavaScript
+=================
